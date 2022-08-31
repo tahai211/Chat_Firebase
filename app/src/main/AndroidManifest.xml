@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
-
+        <activity android:name=".chat.Chat"></activity>
         <activity
             android:name=".Register"
             android:exported="true">
